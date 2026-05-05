@@ -12,7 +12,7 @@ Estudante de Engenharia de Software focado em desenvolver soluções eficientes,
 
 ### 🛠 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,mongodb,postgresql,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,mongodb,postgresql,mysql,docker,git,github,typescript,javascript,html,css,angular,react,postman)](https://skillicons.dev)
 
 ---
 
